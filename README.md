@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm EternalC0DER</h1>
 <h3 align="center">Security researcher, Fullstack developer and Entrepreneur</h3>
 
-- 🤖 CEO and Founder at **Intelika**
+- 🤖 CEO and Founder at **Intelika AI**
 
 - ❤️ Former member **Unk9vvn™, PARSING™, Ultrasec™**
 
-- 🌱 I’m currently learning **NLP, deep learning and AI in general**
+- 🌱 Currently working on 17 projects simultaneously 💀
 
 - 🤐 A lot more that I can't mention here **;)**
 
