@@ -9,8 +9,6 @@
 
 ###
 
-<br clear="both">
-
 ![snake](https://github.com/user-attachments/assets/5518dc97-4470-4d6c-b296-2405874e9ee8)
 
 <br clear="both">
